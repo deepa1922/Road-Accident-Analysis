@@ -4,10 +4,10 @@ The Road Accident Dashboard visually represents data on road accidents, offering
 ![image](road_accident_dashboard.png)
 
 ## 📊Key Steps:
-Requirement Gathering
-Data Overview
-Data Cleaning & Processing
-Created a dynamic dashboard with various chart types including card, multi-row card, area chart, bar chart, donut chart, slicer, and map.
+- Requirement Gathering
+- Data Overview
+- Data Cleaning & Processing
+- Created a dynamic dashboard with various chart types including card, multi-row card, area chart, bar chart, donut chart, slicer, and map.
 
 ## 💡Insights:
 - 👉 📉 Achieved an impressive 12% YoY reduction in casualties, indicating positive progress.
