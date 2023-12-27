@@ -18,7 +18,7 @@ The Road Accident Dashboard visually represents data on road accidents, offering
 
 - 👉 Identified contributions from both urban and rural areas to accidents, emphasizing the need for extra focus on urban areas.
 
-- 👉 Accidents are more prevalent in daylight🌞, with some occurring in the dark.
+- 👉 Accidents are more prevalent in daylight🌞, with some occurring in the dark..
 
 - 👉 Single-carriageway or one-lane roads🛣️ account for 70-75% of accidents. Converting these to double lanes could be a strategic approach for reducing accidents.
 
